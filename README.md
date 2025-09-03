@@ -10,7 +10,7 @@ Permite cadastrar, remover, listar, buscar e editar nomes com validações simpl
 - [4] Buscar: filtra nomes que contêm um trecho (case-insensitive).
 - [5] Editar: altera um nome existente de acordo com índice (com verificação de duplicata).
 - [6] Sair: encerra o programa.
-- 
+  
 ## Como funciona
 - Estrutura de dados: `ArrayList<String>` (dinâmico, simples para inserir/remover).
 - Comparação de nomes: `equalsIgnoreCase` (evita problemas com `==`).
