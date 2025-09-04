@@ -1,4 +1,4 @@
-# ☕ Maratona Java: Do Básico à Primeira Xícara de Código
+# ☕ Maratona ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white): Do Básico à Primeira Xícara de Código
 
 Meu repositório de estudos de Java! Documentando os primeiros passos no mundo da programação.
 
@@ -8,5 +8,4 @@ Meu repositório de estudos de Java! Documentando os primeiros passos no mundo d
 - **Arrays e Listas**: Organizando os primeiros dados.
 - **Introdução a POO**: Criando os primeiros objetos.
 
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
