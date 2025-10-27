@@ -31,7 +31,7 @@ Aprendendo a estruturar uma aplicação web real — do backend ao deploy.
 
 - ☕ **Java 17+**
 - 🧩 **Spring Boot**
-- 🧠 **IntelliJ IDEA / VS Code**
+- 🧠 **IntelliJ IDEA**
 - 🐙 **Git & GitHub**
 - 🧾 **Maven / Gradle**
 - 🧮 **JPA / Hibernate (em breve)**
